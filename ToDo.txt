@@ -1,0 +1,5 @@
+1. FolderRepository.cs:29 Remove the create function and replace it with createFile and CreateFolder in all test cases
+2. DbRepository.cs:24 Remove the create function and replace it with createFile and CreateFolder in all test cases
+3. Rename: Write test cases for rename
+4. Move: Write test cases for move
+5. Copy: Write test cases for Copy

@@ -1,0 +1,15 @@
+/.vs/DocumentSync/v14/.suo
+/DocumentSync/bin/Debug/DbFolder
+/DocumentSync/bin/Debug/*.exe
+/DocumentSync/bin/Debug/*.pdb
+/DocumentSync/bin/Debug/*.dll
+/DocumentSync/bin/Debug
+/DocumentSync/obj/Debug/*.cache
+/DocumentSync/obj/Debug/DocumentSync.csproj.FileListAbsolute.txt
+/DocumentSync/obj/Debug
+/DocumentSyncLib/bin/Debug
+/DocumentSyncLib/obj/Debug
+/SyncTest/bin/Debug
+/SyncTest/*.user
+/SyncTest/obj/Debug
+/packages/NUnit.3.6.1
